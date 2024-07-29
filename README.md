@@ -1,7 +1,7 @@
 # RAG Pipeline with Tensorflow and Open Source Hugging Face Model 
 
 
-![alt text]("https://github.com/mihir1493/LLM_Projects/blob/main/Pipeline.png")
+![alt text](https://github.com/mihir1493/LLM_Projects/blob/main/Pipeline.png)
 
 ## Outline Steps:
 * Open a PDF Document
