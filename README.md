@@ -15,7 +15,7 @@
 * Embedding Model: all-mpnet-base-v2
 * Pytorch
 * LLM Model: google/gemma-2b-it (IT: Instruction Tuned)
-* 
+* CUDA
 
 ### Reference: 
 Augment our prompt with context items
@@ -24,7 +24,6 @@ Augment our prompt with context items
 * https://arxiv.org/abs/2401.14423
 
 ## Setup
-
 Note: Tested in Python 3.11, running on Windows 10 with a NVIDIA RTX 1080TI with CUDA 12.1.
 
 ### Create environment
